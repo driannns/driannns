@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @driannns
 - 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... python
+- 🌱 I’m currently learning
 
 
 <!---
