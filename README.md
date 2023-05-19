@@ -1,5 +1,5 @@
 # 💫 About Me:
-😎i am Front-End Developer<br>🎯Still learning to be a better Front-End Developer
+😎Junior Front-End Developer<br>🎯Still learning to be a better Front-End Developer
 
 
 ## 🌐 Socials:
